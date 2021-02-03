@@ -1,6 +1,6 @@
 # React Smash
 
-Experimenting Redux and React
+Experimenting React and Redux
 <br>
 Every folder is a seperate small app - dont forget to run --> npm install
 
