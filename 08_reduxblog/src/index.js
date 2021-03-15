@@ -19,9 +19,3 @@ ReactDOM.render(
 if (module.hot) {
   module.hot.accept();
 }
-
-// --ayt
-// aile burda,düzen,ev hazır
-// --ist
-// yenilik, kalabalık, refreshing, ortam
-//
